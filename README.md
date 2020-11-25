@@ -4,7 +4,7 @@
 
 	1.1-  Projeto Automação Rest-Assured
 		1.1.2 Automação de api utilizando:
-			- Rest-assured (https://rest-assured.io/>);
+			- Rest-assured (https://rest-assured.io/);
 			- Java 
 			- Junit(https://junit.org/junit4/).
       
