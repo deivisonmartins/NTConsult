@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="16" time="26.77">
+<testcase classname="Consulta posts api" name="Realizar consulta dos posts" time="8.395">
+<system-out><![CDATA[Dado que informo a api de comunicacao.......................................passed
+Entao deve validar o codigo de retorno......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Consulta posts api" name="Realizar consulta de posts por id" time="0.726">
+<system-out><![CDATA[Dado que devo informar a api com id.........................................passed
+Entao deve validar o retorno................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Consulta posts api" name="Realizar consulta de posts por id comentario" time="0.368">
+<system-out><![CDATA[Dado que devo informar a api com id comentario..............................passed
+Entao deve validar o retorno da consulta....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Consulta posts api" name="Realizar consulta de posts por id comentario2" time="0.344">
+<system-out><![CDATA[Dado que devo informar a api com id comentario2.............................passed
+Entao deve validar o retorno2...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Remove posts api" name="Deletar posts por id1" time="0.835">
+<system-out><![CDATA[Dado que devo deletar o id1.................................................passed
+Entao deve validar o retorno1...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Remove posts api" name="Deletar posts por id2" time="0.862">
+<system-out><![CDATA[Dado que devo excluir o id2.................................................passed
+Entao deve verificar o retorno2.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Remove posts api" name="Deletar posts por id3" time="1.957">
+<system-out><![CDATA[Dado que devo deletar o id3.................................................passed
+Entao deve validar o retorno3...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Remove posts api" name="Deletar posts por id4" time="1.116">
+<system-out><![CDATA[Dado que devo deletar o id4.................................................passed
+Entao deve validar o retorno4...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insert posts api" name="Realizar insent de posts1" time="2.643">
+<system-out><![CDATA[Dado que devo preencher os campos1..........................................passed
+Entao devo validar o retorno1...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insert posts api" name="Realizar insent de posts2" time="1.599">
+<system-out><![CDATA[Dado que devo preencher os campos2..........................................passed
+Entao devo validar o retorno2...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insert posts api" name="Realizar insent de posts3" time="1.041">
+<system-out><![CDATA[Dado que devo preencher os campos3..........................................passed
+Entao devo validar o retorno3...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insert posts api" name="Realizar insent de posts4" time="0.923">
+<system-out><![CDATA[Dado que devo preencher os campos4..........................................passed
+Entao devo validar o retorno4...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Alterar posts api" name="Realizar update dos posts1" time="0.742">
+<system-out><![CDATA[Dado que devo alterar os posts1.............................................passed
+Entao deve validar retorno do post1.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Alterar posts api" name="Realizar update dos posts2" time="0.855">
+<system-out><![CDATA[Dado que devo alterar os posts2.............................................passed
+Entao deve validar o retorno do posts2......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Alterar posts api" name="Realizar update dos posts3" time="2.017">
+<system-out><![CDATA[Dado que devo alterar os posts3.............................................passed
+Entao deve validar o retorno do posts3......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Alterar posts api" name="Realizar update dos posts4" time="1.106">
+<system-out><![CDATA[Dado que devo alterar os posts4.............................................passed
+Entao deve validar o retorno do posts4......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

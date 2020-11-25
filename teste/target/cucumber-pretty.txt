@@ -1,0 +1,64 @@
+
+Cenario: Realizar consulta dos posts     [90m# src/test/resources/consultaPosts.feature:4[0m
+  [32mDado [0m[32mque informo a api de comunicacao[0m  [90m# br.com.ntconsult.teste.CenariosGetAPI.que_informo_a_api_de_comunicacao()[0m
+  [32mEntao [0m[32mdeve validar o codigo de retorno[0m [90m# br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_codigo_de_retorno()[0m
+
+Cenario: Realizar consulta de posts por id [90m# src/test/resources/consultaPosts.feature:8[0m
+  [32mDado [0m[32mque devo informar a api com id[0m      [90m# br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id()[0m
+  [32mEntao [0m[32mdeve validar o retorno[0m             [90m# br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno()[0m
+
+Cenario: Realizar consulta de posts por id comentario [90m# src/test/resources/consultaPosts.feature:12[0m
+  [32mDado [0m[32mque devo informar a api com id comentario[0m      [90m# br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id_comentario()[0m
+  [32mEntao [0m[32mdeve validar o retorno da consulta[0m            [90m# br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno_da_consulta()[0m
+
+Cenario: Realizar consulta de posts por id comentario2 [90m# src/test/resources/consultaPosts.feature:16[0m
+  [32mDado [0m[32mque devo informar a api com id comentario2[0m      [90m# br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id_comentario2()[0m
+  [32mEntao [0m[32mdeve validar o retorno2[0m                        [90m# br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno2()[0m
+
+Cenario: Deletar posts por id1  [90m# src/test/resources/deletePosts.feature:4[0m
+  [32mDado [0m[32mque devo deletar o id1[0m   [90m# br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id1()[0m
+  [32mEntao [0m[32mdeve validar o retorno1[0m [90m# br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno1()[0m
+
+Cenario: Deletar posts por id2    [90m# src/test/resources/deletePosts.feature:8[0m
+  [32mDado [0m[32mque devo excluir o id2[0m     [90m# br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_excluir_o_id2()[0m
+  [32mEntao [0m[32mdeve verificar o retorno2[0m [90m# br.com.ntconsult.teste.CenariosDeleteAPI.deve_verificar_o_retorno2()[0m
+
+Cenario: Deletar posts por id3  [90m# src/test/resources/deletePosts.feature:12[0m
+  [32mDado [0m[32mque devo deletar o id3[0m   [90m# br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id3()[0m
+  [32mEntao [0m[32mdeve validar o retorno3[0m [90m# br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno3()[0m
+
+Cenario: Deletar posts por id4  [90m# src/test/resources/deletePosts.feature:16[0m
+  [32mDado [0m[32mque devo deletar o id4[0m   [90m# br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id4()[0m
+  [32mEntao [0m[32mdeve validar o retorno4[0m [90m# br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno4()[0m
+
+Cenario: Realizar insent de posts1   [90m# src/test/resources/insertPosts.feature:4[0m
+  [32mDado [0m[32mque devo preencher os campos1[0m [90m# br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos1()[0m
+  [32mEntao [0m[32mdevo validar o retorno1[0m      [90m# br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno1()[0m
+
+Cenario: Realizar insent de posts2   [90m# src/test/resources/insertPosts.feature:8[0m
+  [32mDado [0m[32mque devo preencher os campos2[0m [90m# br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos2()[0m
+  [32mEntao [0m[32mdevo validar o retorno2[0m      [90m# br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno2()[0m
+
+Cenario: Realizar insent de posts3   [90m# src/test/resources/insertPosts.feature:12[0m
+  [32mDado [0m[32mque devo preencher os campos3[0m [90m# br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos3()[0m
+  [32mEntao [0m[32mdevo validar o retorno3[0m      [90m# br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno3()[0m
+
+Cenario: Realizar insent de posts4   [90m# src/test/resources/insertPosts.feature:16[0m
+  [32mDado [0m[32mque devo preencher os campos4[0m [90m# br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos4()[0m
+  [32mEntao [0m[32mdevo validar o retorno4[0m      [90m# br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno4()[0m
+
+Cenario: Realizar update dos posts1   [90m# src/test/resources/updatePosts.feature:4[0m
+  [32mDado [0m[32mque devo alterar os posts1[0m     [90m# br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts1()[0m
+  [32mEntao [0m[32mdeve validar retorno do post1[0m [90m# br.com.ntconsult.teste.CenariosPutAPI.deve_validar_retorno_do_post1()[0m
+
+Cenario: Realizar update dos posts2      [90m# src/test/resources/updatePosts.feature:8[0m
+  [32mDado [0m[32mque devo alterar os posts2[0m        [90m# br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts2()[0m
+  [32mEntao [0m[32mdeve validar o retorno do posts2[0m [90m# br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts2()[0m
+
+Cenario: Realizar update dos posts3      [90m# src/test/resources/updatePosts.feature:12[0m
+  [32mDado [0m[32mque devo alterar os posts3[0m        [90m# br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts3()[0m
+  [32mEntao [0m[32mdeve validar o retorno do posts3[0m [90m# br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts3()[0m
+
+Cenario: Realizar update dos posts4      [90m# src/test/resources/updatePosts.feature:16[0m
+  [32mDado [0m[32mque devo alterar os posts4[0m        [90m# br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts4()[0m
+  [32mEntao [0m[32mdeve validar o retorno do posts4[0m [90m# br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts4()[0m

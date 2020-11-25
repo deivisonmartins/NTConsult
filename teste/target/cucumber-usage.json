@@ -1,0 +1,578 @@
+[
+  {
+    "source": "que informo a api de comunicacao",
+    "steps": [
+      {
+        "name": "que informo a api de comunicacao",
+        "aggregatedDurations": {
+          "median": 7.508,
+          "average": 7.508
+        },
+        "durations": [
+          {
+            "duration": 7.508,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o codigo de retorno",
+    "steps": [
+      {
+        "name": "deve validar o codigo de retorno",
+        "aggregatedDurations": {
+          "median": 0.66,
+          "average": 0.66
+        },
+        "durations": [
+          {
+            "duration": 0.66,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo informar a api com id",
+    "steps": [
+      {
+        "name": "que devo informar a api com id",
+        "aggregatedDurations": {
+          "median": 0.184,
+          "average": 0.184
+        },
+        "durations": [
+          {
+            "duration": 0.184,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno",
+    "steps": [
+      {
+        "name": "deve validar o retorno",
+        "aggregatedDurations": {
+          "median": 0.534,
+          "average": 0.534
+        },
+        "durations": [
+          {
+            "duration": 0.534,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo informar a api com id comentario",
+    "steps": [
+      {
+        "name": "que devo informar a api com id comentario",
+        "aggregatedDurations": {
+          "median": 0.24,
+          "average": 0.24
+        },
+        "durations": [
+          {
+            "duration": 0.24,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno da consulta",
+    "steps": [
+      {
+        "name": "deve validar o retorno da consulta",
+        "aggregatedDurations": {
+          "median": 0.128,
+          "average": 0.128
+        },
+        "durations": [
+          {
+            "duration": 0.128,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo informar a api com id comentario2",
+    "steps": [
+      {
+        "name": "que devo informar a api com id comentario2",
+        "aggregatedDurations": {
+          "median": 0.247,
+          "average": 0.247
+        },
+        "durations": [
+          {
+            "duration": 0.247,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno2",
+    "steps": [
+      {
+        "name": "deve validar o retorno2",
+        "aggregatedDurations": {
+          "median": 0.082,
+          "average": 0.082
+        },
+        "durations": [
+          {
+            "duration": 0.082,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/consultaPosts.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo deletar o id1",
+    "steps": [
+      {
+        "name": "que devo deletar o id1",
+        "aggregatedDurations": {
+          "median": 0.381,
+          "average": 0.381
+        },
+        "durations": [
+          {
+            "duration": 0.381,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno1",
+    "steps": [
+      {
+        "name": "deve validar o retorno1",
+        "aggregatedDurations": {
+          "median": 0.454,
+          "average": 0.454
+        },
+        "durations": [
+          {
+            "duration": 0.454,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo excluir o id2",
+    "steps": [
+      {
+        "name": "que devo excluir o id2",
+        "aggregatedDurations": {
+          "median": 0.487,
+          "average": 0.487
+        },
+        "durations": [
+          {
+            "duration": 0.487,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve verificar o retorno2",
+    "steps": [
+      {
+        "name": "deve verificar o retorno2",
+        "aggregatedDurations": {
+          "median": 0.375,
+          "average": 0.375
+        },
+        "durations": [
+          {
+            "duration": 0.375,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo deletar o id3",
+    "steps": [
+      {
+        "name": "que devo deletar o id3",
+        "aggregatedDurations": {
+          "median": 1.552,
+          "average": 1.552
+        },
+        "durations": [
+          {
+            "duration": 1.552,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno3",
+    "steps": [
+      {
+        "name": "deve validar o retorno3",
+        "aggregatedDurations": {
+          "median": 0.402,
+          "average": 0.402
+        },
+        "durations": [
+          {
+            "duration": 0.402,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo deletar o id4",
+    "steps": [
+      {
+        "name": "que devo deletar o id4",
+        "aggregatedDurations": {
+          "median": 0.576,
+          "average": 0.576
+        },
+        "durations": [
+          {
+            "duration": 0.576,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno4",
+    "steps": [
+      {
+        "name": "deve validar o retorno4",
+        "aggregatedDurations": {
+          "median": 0.513,
+          "average": 0.513
+        },
+        "durations": [
+          {
+            "duration": 0.513,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/deletePosts.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo preencher os campos1",
+    "steps": [
+      {
+        "name": "que devo preencher os campos1",
+        "aggregatedDurations": {
+          "median": 1.483,
+          "average": 1.483
+        },
+        "durations": [
+          {
+            "duration": 1.483,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "devo validar o retorno1",
+    "steps": [
+      {
+        "name": "devo validar o retorno1",
+        "aggregatedDurations": {
+          "median": 1.134,
+          "average": 1.134
+        },
+        "durations": [
+          {
+            "duration": 1.134,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo preencher os campos2",
+    "steps": [
+      {
+        "name": "que devo preencher os campos2",
+        "aggregatedDurations": {
+          "median": 0.969,
+          "average": 0.969
+        },
+        "durations": [
+          {
+            "duration": 0.969,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "devo validar o retorno2",
+    "steps": [
+      {
+        "name": "devo validar o retorno2",
+        "aggregatedDurations": {
+          "median": 0.61,
+          "average": 0.61
+        },
+        "durations": [
+          {
+            "duration": 0.61,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo preencher os campos3",
+    "steps": [
+      {
+        "name": "que devo preencher os campos3",
+        "aggregatedDurations": {
+          "median": 0.395,
+          "average": 0.395
+        },
+        "durations": [
+          {
+            "duration": 0.395,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "devo validar o retorno3",
+    "steps": [
+      {
+        "name": "devo validar o retorno3",
+        "aggregatedDurations": {
+          "median": 0.627,
+          "average": 0.627
+        },
+        "durations": [
+          {
+            "duration": 0.627,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo preencher os campos4",
+    "steps": [
+      {
+        "name": "que devo preencher os campos4",
+        "aggregatedDurations": {
+          "median": 0.3,
+          "average": 0.3
+        },
+        "durations": [
+          {
+            "duration": 0.3,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "devo validar o retorno4",
+    "steps": [
+      {
+        "name": "devo validar o retorno4",
+        "aggregatedDurations": {
+          "median": 0.61,
+          "average": 0.61
+        },
+        "durations": [
+          {
+            "duration": 0.61,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/insertPosts.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo alterar os posts1",
+    "steps": [
+      {
+        "name": "que devo alterar os posts1",
+        "aggregatedDurations": {
+          "median": 0.348,
+          "average": 0.348
+        },
+        "durations": [
+          {
+            "duration": 0.348,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar retorno do post1",
+    "steps": [
+      {
+        "name": "deve validar retorno do post1",
+        "aggregatedDurations": {
+          "median": 0.378,
+          "average": 0.378
+        },
+        "durations": [
+          {
+            "duration": 0.378,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo alterar os posts2",
+    "steps": [
+      {
+        "name": "que devo alterar os posts2",
+        "aggregatedDurations": {
+          "median": 0.432,
+          "average": 0.432
+        },
+        "durations": [
+          {
+            "duration": 0.432,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno do posts2",
+    "steps": [
+      {
+        "name": "deve validar o retorno do posts2",
+        "aggregatedDurations": {
+          "median": 0.408,
+          "average": 0.408
+        },
+        "durations": [
+          {
+            "duration": 0.408,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo alterar os posts3",
+    "steps": [
+      {
+        "name": "que devo alterar os posts3",
+        "aggregatedDurations": {
+          "median": 1.561,
+          "average": 1.561
+        },
+        "durations": [
+          {
+            "duration": 1.561,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno do posts3",
+    "steps": [
+      {
+        "name": "deve validar o retorno do posts3",
+        "aggregatedDurations": {
+          "median": 0.44,
+          "average": 0.44
+        },
+        "durations": [
+          {
+            "duration": 0.44,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "que devo alterar os posts4",
+    "steps": [
+      {
+        "name": "que devo alterar os posts4",
+        "aggregatedDurations": {
+          "median": 0.496,
+          "average": 0.496
+        },
+        "durations": [
+          {
+            "duration": 0.496,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "deve validar o retorno do posts4",
+    "steps": [
+      {
+        "name": "deve validar o retorno do posts4",
+        "aggregatedDurations": {
+          "median": 0.61,
+          "average": 0.61
+        },
+        "durations": [
+          {
+            "duration": 0.61,
+            "location": "file:///C:/Users/BEMOL/Downloads/Documents/teste/src/test/resources/updatePosts.feature:18"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,606 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-25T03:02:02.269Z",
+        "line": 4,
+        "name": "Realizar consulta dos posts",
+        "description": "",
+        "id": "consulta-posts-api;realizar-consulta-dos-posts",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7508000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que informo a api de comunicacao",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.que_informo_a_api_de_comunicacao()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 660000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "deve validar o codigo de retorno",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_codigo_de_retorno()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:10.760Z",
+        "line": 8,
+        "name": "Realizar consulta de posts por id",
+        "description": "",
+        "id": "consulta-posts-api;realizar-consulta-de-posts-por-id",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 184000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que devo informar a api com id",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 534000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "deve validar o retorno",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:11.502Z",
+        "line": 12,
+        "name": "Realizar consulta de posts por id comentario",
+        "description": "",
+        "id": "consulta-posts-api;realizar-consulta-de-posts-por-id-comentario",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 240000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que devo informar a api com id comentario",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id_comentario()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 128000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "deve validar o retorno da consulta",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno_da_consulta()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:11.926Z",
+        "line": 16,
+        "name": "Realizar consulta de posts por id comentario2",
+        "description": "",
+        "id": "consulta-posts-api;realizar-consulta-de-posts-por-id-comentario2",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 247000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "que devo informar a api com id comentario2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.que_devo_informar_a_api_com_id_comentario2()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 82000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "deve validar o retorno2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosGetAPI.deve_validar_o_retorno2()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Consulta posts api",
+    "description": "",
+    "id": "consulta-posts-api",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/test/resources/consultaPosts.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-25T03:02:12.279Z",
+        "line": 4,
+        "name": "Deletar posts por id1",
+        "description": "",
+        "id": "remove-posts-api;deletar-posts-por-id1",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 381000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que devo deletar o id1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id1()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 454000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "deve validar o retorno1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno1()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:13.130Z",
+        "line": 8,
+        "name": "Deletar posts por id2",
+        "description": "",
+        "id": "remove-posts-api;deletar-posts-por-id2",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 487000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que devo excluir o id2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_excluir_o_id2()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 375000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "deve verificar o retorno2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.deve_verificar_o_retorno2()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:14.020Z",
+        "line": 12,
+        "name": "Deletar posts por id3",
+        "description": "",
+        "id": "remove-posts-api;deletar-posts-por-id3",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1552000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que devo deletar o id3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id3()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 402000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "deve validar o retorno3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno3()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:16.001Z",
+        "line": 16,
+        "name": "Deletar posts por id4",
+        "description": "",
+        "id": "remove-posts-api;deletar-posts-por-id4",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 576000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "que devo deletar o id4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.que_devo_deletar_o_id4()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 513000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "deve validar o retorno4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosDeleteAPI.deve_validar_o_retorno4()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Remove posts api",
+    "description": "",
+    "id": "remove-posts-api",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/test/resources/deletePosts.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-25T03:02:17.133Z",
+        "line": 4,
+        "name": "Realizar insent de posts1",
+        "description": "",
+        "id": "insert-posts-api;realizar-insent-de-posts1",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1483000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que devo preencher os campos1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos1()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 1134000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "devo validar o retorno1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno1()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:19.801Z",
+        "line": 8,
+        "name": "Realizar insent de posts2",
+        "description": "",
+        "id": "insert-posts-api;realizar-insent-de-posts2",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 969000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que devo preencher os campos2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos2()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 610000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "devo validar o retorno2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno2()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:21.483Z",
+        "line": 12,
+        "name": "Realizar insent de posts3",
+        "description": "",
+        "id": "insert-posts-api;realizar-insent-de-posts3",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 395000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que devo preencher os campos3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos3()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 627000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "devo validar o retorno3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno3()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:22.539Z",
+        "line": 16,
+        "name": "Realizar insent de posts4",
+        "description": "",
+        "id": "insert-posts-api;realizar-insent-de-posts4",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 300000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "que devo preencher os campos4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.que_devo_preencher_os_campos4()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 610000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "devo validar o retorno4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPostAPI.devo_validar_o_retorno4()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Insert posts api",
+    "description": "",
+    "id": "insert-posts-api",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/test/resources/insertPosts.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-25T03:02:23.464Z",
+        "line": 4,
+        "name": "Realizar update dos posts1",
+        "description": "",
+        "id": "alterar-posts-api;realizar-update-dos-posts1",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 348000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que devo alterar os posts1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts1()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 378000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "deve validar retorno do post1",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.deve_validar_retorno_do_post1()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:24.230Z",
+        "line": 8,
+        "name": "Realizar update dos posts2",
+        "description": "",
+        "id": "alterar-posts-api;realizar-update-dos-posts2",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 432000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que devo alterar os posts2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts2()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 408000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "deve validar o retorno do posts2",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts2()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:25.085Z",
+        "line": 12,
+        "name": "Realizar update dos posts3",
+        "description": "",
+        "id": "alterar-posts-api;realizar-update-dos-posts3",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1561000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que devo alterar os posts3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts3()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 440000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "deve validar o retorno do posts3",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts3()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-25T03:02:27.149Z",
+        "line": 16,
+        "name": "Realizar update dos posts4",
+        "description": "",
+        "id": "alterar-posts-api;realizar-update-dos-posts4",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 496000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "que devo alterar os posts4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.que_devo_alterar_os_posts4()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 610000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "deve validar o retorno do posts4",
+            "match": {
+              "location": "br.com.ntconsult.teste.CenariosPutAPI.deve_validar_o_retorno_do_posts4()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Alterar posts api",
+    "description": "",
+    "id": "alterar-posts-api",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/test/resources/updatePosts.feature",
+    "tags": []
+  }
+]
